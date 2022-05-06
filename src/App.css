@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+}
+
+.main {
+  text-align: center;
+}
+.container {
+  display: inline-block;
+  width: 70%;
+}
+
+.post {
+  border: 1px solid #ccc;
+  text-align: justify;
+  padding: 5px;
+  margin: 5px;
+  height: 40px;
+  /* width: 80%; */
+}
+.pagination {
+  display: inline-block;
+  width: 70%;
+  margin: 0 auto;
+}
+
+.pagination-item {
+  display: inline-block;
+  padding: 3px;
+  margin: auto;
+  border: 1px solid blueviolet;
+  text-align: center;
+  width: 30px;
+}
+
+.pagination-item a {
+  text-decoration: none;
+  color: blue;
+}
+
+.pagination-item .noclick {
+  pointer-events: none;
+}
+
+.perpage-div {
+  margin-top: 15px;
+}
+.alert {
+  margin-top: 15px;
+}
