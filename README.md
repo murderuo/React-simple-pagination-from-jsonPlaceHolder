@@ -15,3 +15,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+
+![Ekran Resmi 2022-05-06 23 51 33](https://user-images.githubusercontent.com/10669515/167214920-22ef89a0-b7a9-4612-a684-dc8845f610f9.png)
